@@ -3,7 +3,7 @@ ul#recently {
     PADDING: 0px;
     list-style: NONE;
 }
-.separator{
+.separator#Img{
     width: 120px;
     max-height: 135px;
     float: right;
