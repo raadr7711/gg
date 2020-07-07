@@ -3,3 +3,10 @@ ul#recently {
     PADDING: 0px;
     list-style: NONE;
 }
+.separator{
+    width: 120px;
+    max-height: 135px;
+    float: right;
+    margin: 5px 5px 0;
+    border-radius: 2px;
+}
