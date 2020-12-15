@@ -1,8 +1,8 @@
 #Blog1 {display: none; }
-      .mega-menu:focus ~ .featured-posts {display: inline; }
-      .mega-menu:focus ~ .featured-posts + #Blog1 {display: block;}
-       .post-title:focus ~ .featured-posts {display: inline; }
-      .post-title:focus ~ .featured-posts + #Blog1 {display: block;}      
-      .view-all:focus ~ .featured-posts {display: inline; }
-      .view-all:focus ~ .featured-posts + #Blog1 {display: block;}
+      
+      .mega-menu:focus ~  #Blog1 {display: block;}
+       
+      .post-title:focus ~ #Blog1 {display: block;}      
+      
+      .view-all:focus ~  #Blog1 {display: block;}
  
