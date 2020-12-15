@@ -1,0 +1,7 @@
+#Blog1 {display: none; }
+      .mega-menu:focus + .hide {display: inline; }
+      .mega-menu:focus + .hide + #Blog1 {display: block;}
+       .post-title:focus + .hide {display: inline; }
+      .post-title:focus + .hide + #Blog1 {display: block;}      
+      .view-all:focus + .hide {display: inline; }
+      .view-all:focus + .hide + #Blog1 {display: block;}
